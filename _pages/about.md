@@ -14,7 +14,7 @@ Previously, I worked with the amazing [Prof. PS Sastry](https://ee.iisc.ac.in/sa
 
 Here is my [__Curriculum Vitae__](\files\deep-patel-cv.pdf){: .btn .btn--inverse}
 
-Contact me at `dbp[dot]patel[dot]1994[at]gmail[dot]com` or `<first_name><second_name>[at]iisc[dot]ac[dot]in`.
+Contact me at `dbp[dot]patel[dot]1994[at]gmail[dot]com` or `dbpatel5[at]wisc[dot]edu`.
 <!--- I am also exploring the robustness properties of mammalian vision-inspired feedback mechanisms for deep neural networks. --->
 
 ----------------------------------------------------------------------------------------------------
