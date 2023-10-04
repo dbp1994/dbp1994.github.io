@@ -57,7 +57,11 @@ Presentations and Talks
 Education
 ------
 
-* Ph.D, 2021 - <br>
+* Ph.D, 2023 - Present<br>
+Department of Computer Sciences](https://cs.wisc.edu){:target="_blank"},
+[University of Wisconsin-Madison](https://wisc.edu){:target="_blank"}, USA<br>
+
+* Ph.D, 2021 - 2023 (discontinued)<br>
 [Department of Electrical Engineering](http://www.ee.iisc.ac.in){:target="_blank"},
 [Indian Institute of Science](https://www.iisc.ac.in/){:target="_blank"}, Bangalore<br>
 Advisor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
@@ -93,6 +97,7 @@ Teaching experience
 * Fall '22: Teaching Assistant
   * Course: Random Processes
   * Instructor: [Prof. Aditya Gopalan](https://ece.iisc.ac.in/~aditya/){:target="_blank"}
+
 
 [Projects](https://dbp1994.github.io/projects/){:target="_blank"}
 ------
