@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Misc"
+title: "Steps taken for improving my mathematical maturity"
 permalink: /misc/
 author_profile: true
 ---
