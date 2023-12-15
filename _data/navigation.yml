@@ -25,7 +25,7 @@ main:
   # - title: "Interesting Stuff"
   #  url: /stuff/
   
-  #- title: "Misc"
-  #  url: /misc/
+  - title: "Personal Log"
+    url: /misc/
   # - title: "Guide"
   #   url: /markdown/
