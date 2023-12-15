@@ -7,7 +7,7 @@ intro:
   - excerpt: 'Lecture notes on Algorithmic High-Dimensional Robust Statistics and High-Dimensional Probability'
 ---
 
-## I will document the summary of what I have been studying during Period-1 (16 weeks of Fall'23) and Period-2 (16 weeks of Spring'24):
+I will document the summary of what I have been studying during Period-1 (16 weeks of Fall'23) and Period-2 (16 weeks of Spring'24):
 - Algorithmic High-Dimensional Robust Statistics (Period-1)
 - High-dimensional Probability & Applications (Period-2)
 
