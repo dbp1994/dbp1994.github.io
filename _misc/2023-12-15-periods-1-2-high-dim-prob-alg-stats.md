@@ -24,6 +24,110 @@ Will be updated periodically.
 
 <!--
 
+---
+title: "Montreal, Canada during NeurIPS 2018"
+layout: splash
+permalink: /misc/2018-12-Montreal-Neurips/
+date: 2018-12-08
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: Montreal-2018/image_2.jpg
+  caption: "Montreal city from Mt. Royal"
+excerpt: "Visited Montreal, Canada with Microsoft Research Labmates to attend and present at [NeurIPS 2018](https://neurips.cc/Conferences/2018)"
+intro: 
+  - excerpt: 'Received a travel grant from Microsoft to present and attend at [NeurIPS 2018](https://neurips.cc/Conferences/2018). This was my very first experience at an academic conference. Scroll and have a look at some pictures from Montreal, Canada!'
+gallery:
+  - image_path: Montreal-2018/image_3.jpg
+    url: Montreal-2018/image_3.jpg
+    title: "Near Palais des Congres de Montreal. Pic credits - Don K. Dennis"
+  - image_path: Montreal-2018/image_1.jpg
+    url: Montreal-2018/image_1.jpg
+    title: "With labmates at Mt. Royal."
+  - image_path: Montreal-2018/image_5.jpg
+    url: Montreal-2018/image_5.jpg
+    title: "The St. Joseph Oratory, Montreal"
+feature_row:
+  - image_path: Montreal-2018/image_4.jpg
+    title: "At the poster presentation session, NeurIPS 2018."
+    excerpt: "Picture credit - [Don K. Dennis](https://dkdennis.xyz)"
+---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include gallery id="gallery" caption="Some selected pictures along the trip." %}
+
+{% include feature_row id="feature_row" type="center" %}
+
+
+---
+title: "Melbourne, Australia during WSDM 2019"
+layout: splash
+permalink: /misc/2019-12-Melbourne-WSDM/
+date: 2019-02-16
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: Melbourne-2019/image_1.jpg
+  caption: "Melbourne city center"
+excerpt: "Visited Melbourne, Australia to attend and present at [WSDM 2019](http://www.wsdm-conference.org/2019/)"
+intro: 
+  - excerpt: 'Received a travel grant from Microsoft to present and attend at [WSDM 2019](http://www.wsdm-conference.org/2019/). First experienec at a Data Minining conference. Scroll and have a look at some pictures from Melbourne, Australia!'
+gallery:
+  - image_path: Melbourne-2019/image_2.jpg
+    url: Melbourne-2019/image_2.jpg
+    title: "Yarra river, near the Conference Center."
+  - image_path: Melbourne-2019/image_4.jpg
+    url: Melbourne-2019/image_4.jpg
+    title: "At St. Kilda Melbourne beach with Himanshu Jain and Gaurush Hiranandani."
+  - image_path: Melbourne-2019/image_3.jpg
+    url: Melbourne-2019/image_3.jpg
+    title: "Melbourne city from 89th floor Eureka Tower."
+feature_row:
+  - image_path: Melbourne-2019/image_5.jpg
+    title: "At the poster presentation session, WSDM 2019."
+    excerpt: "Picture credit - [Gaurush Hiranandani](https://gaurush.com/)"
+---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include gallery id="gallery" caption="Some selected pictures along the trip." %}
+
+{% include feature_row id="feature_row" type="center" %}
+
+---
+title: "Vancouver, Canada during NeurIPS 2019"
+layout: splash
+permalink: /misc/2019-12-Vancouver-Neurips/
+date: 2019-12-08
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: Vancouver-2019/image_2.jpg
+  caption: "Vancouver city from Stanley Park"
+excerpt: "Visited Vancouver, Canada to attend [NeurIPS 2019](https://neurips.cc/Conferences/2019) and present at [SEDL 2019](https://sites.google.com/view/sedl-neurips-2019/)"
+intro: 
+  - excerpt: 'Received a travel grant to attend [NeurIPS 2019](https://neurips.cc/Conferences/2019). Scroll and have a look at some pictures from Vancouver, Canada!'
+gallery:
+  - image_path: Vancouver-2019/image_1.jpg
+    url: Vancouver-2019/image_1.jpg
+    title: "Near Stanley Park, Vancouver."
+  - image_path: Vancouver-2019/image_3.jpg
+    url: Vancouver-2019/image_3.jpg
+    title: "Near Canada Place around the Convention center."
+feature_row:
+  - image_path: Vancouver-2019/image_4.jpg
+    title: "At the poster presentation session, SEDL 2019, NeurIPS 2019."
+    excerpt: "Picture credit - [Aditya Kusupati](https://adityakusupati.github.io/)"
+---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include gallery id="gallery" caption="Some selected pictures along the trip." %}
+
+{% include feature_row id="feature_row" type="center" %}
+
+
 Upon being asked about what 'art' is, an artist replied - "Most people feel that painting a picture is an art form, and singing a song is an art. The most beautiful thing about art, I think, is that it is a medium through which two unrelated beings can convey empathy, thoughts, and emotions. This exchange of emotions can occur by looking at a painting, watching a play or a movie, listening to an instrument, reading a poem, or simply listening to someone." Well, I feel that mathematics seemingly qualifies this characterization. A very similar statement recently made by Prof. June Huh, the winner of the Fields medal in 2022, one of the highest honors awarded for outstanding mathematical achievements - "... I dreamed of becoming a poet, to express the inexpressible. I eventually learned that mathematics is a way of doing that."
  
 It is expected for a reader to wonder, what does art have to do with Mathematics? We even have Bachelor and Master degree courses in Arts with concentration in Mathematics if this further raises any curiosity. How are finding solutions of a differential equation, finding the probability of a dart hitting the bull's eye, or finding the rational solutions of a polynomial equation, art forms? Are we seeking some form of simplistic beautiful structure in their solutions? Or are we admiring the elegance of how one can approach their solutions? Or is there a symphony across all these different questions? It is also said that Mathematics is the queen of all sciences, and that Mathematics is the language of science. Is Mathematics now a form of science? Many readers might agree to this more easily in their hindsight that they would agree on the prior claim that Mathematics is an art. Many might have heard of Galileo's famous quote - "The book of nature is written in the language of mathematics."
