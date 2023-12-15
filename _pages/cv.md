@@ -86,17 +86,21 @@ Other Research Experiences
 Teaching experience
 ------
 
-* Fall '19, Fall '20, Fall '21: Teaching Assistant
-  * Course: Stochastic Models & Applications
-  * Instructor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
+* Spring'24, Fall'23: Teaching Assistant
+  * Course: Basic Statistics for Psychology
+  * Instructor: [Prof. Rebecca Addington](https://psych.wisc.edu/staff/addington-rebecca/){:target="_blank"}
+
+* Fall '22: Teaching Assistant
+  * Course: Random Processes
+  * Instructor: [Prof. Aditya Gopalan](https://ece.iisc.ac.in/~aditya/){:target="_blank"}
 
 * Spring '20: Teaching Assistant
   * Course: Pattern Recognition and Neural Networks
   * Instructor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
 
-* Fall '22: Teaching Assistant
-  * Course: Random Processes
-  * Instructor: [Prof. Aditya Gopalan](https://ece.iisc.ac.in/~aditya/){:target="_blank"}
+* Fall '19, Fall '20, Fall '21: Teaching Assistant
+  * Course: Stochastic Models & Applications
+  * Instructor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
 
 
 [Projects](https://dbp1994.github.io/projects/){:target="_blank"}
