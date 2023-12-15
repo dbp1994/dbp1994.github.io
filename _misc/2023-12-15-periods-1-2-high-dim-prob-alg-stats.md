@@ -19,7 +19,7 @@ I took an amazing course recently by Prof. Ilias Diakonikolas on "Algorithmic Hi
 
 # Period-2: High-Dimensional Probability
 
-Will be updated constantly...
+Will be updated periodically.
 
 
 <!--
