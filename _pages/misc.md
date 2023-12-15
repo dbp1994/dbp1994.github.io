@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Steps taken for improving my mathematical maturity"
+title: "What am I currently doing to improve my mathematical maturity and ability?"
 permalink: /misc/
 author_profile: true
 ---
