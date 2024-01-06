@@ -1,4 +1,4 @@
----
+<!--- ---
 layout: archive
 title: "Interesting Stuff"
 permalink: /stuff/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+--->
 ## Some interesting links
 
 General:
