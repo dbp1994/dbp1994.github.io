@@ -16,7 +16,7 @@ main:
   # - title: "Blog"
   #  url: /year-archive/
       
-  #- title: "Publications"
+  # - title: "Publications"
   #  url: /publications/
   
   - title: "CV"
@@ -25,7 +25,7 @@ main:
   - title: "Personal Log (Experimental)"
     url: /misc/
 
-  - title: "Miscelleneous"
-   url: /stuff/
+  - title: "Miscellaneous"
+    url: /stuff/
   # - title: "Guide"
   #   url: /markdown/
