@@ -23,9 +23,7 @@ Popular Science in India:
 2. [Bhavana Magazine](https://bhavana.org.in/)
 3. [Arvind Gupta's 'Toys From Trash'](http://arvindguptatoys.com/)
 
-{% for post in site.misc reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+{% for post in site.misc reversed %} {% include archive-single.html %} {% endfor %}
 
 <!---
 **Personal Library**
