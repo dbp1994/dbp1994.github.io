@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Interesting Stuff"
+title: "Miscelleneous"
 permalink: /stuff/
 author_profile: true
 ---
