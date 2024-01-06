@@ -4,6 +4,7 @@ title: "Some interesting links"
 permalink: /stuff/
 author_profile: true
 ---
+{% include base_path %}
 
 General:
 1. [Inequalities Cheat Sheet](http://www.lkozma.net/inequalities_cheat_sheet/)
@@ -16,6 +17,10 @@ Popular Science in India:
 1. [Resonance Magazine](https://www.ias.ac.in/listing/issues/reso)
 2. [Bhavana Magazine](https://bhavana.org.in/)
 3. [Arvind Gupta's 'Toys From Trash'](http://arvindguptatoys.com/)
+
+{% for post in site.misc reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 <!---
 **Personal Library**
