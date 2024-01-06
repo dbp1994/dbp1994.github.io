@@ -93,7 +93,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : # "raghavsomani95"
+  facebook         : 
   foursquare       :
   github           : "dbp1994"
   google_plus      :
@@ -269,6 +269,7 @@ defaults:
       layout: single
       author_profile: true
       comment: true
+
 
 # Sass/SCSS
 sass:
