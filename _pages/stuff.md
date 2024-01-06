@@ -3,8 +3,6 @@ layout: archive
 title: "Interesting Stuff"
 permalink: /stuff/
 author_profile: true
-redirect_from:
-  - /stuff
 ---
 
 {% include base_path %}
