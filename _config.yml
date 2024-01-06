@@ -195,6 +195,9 @@ collections:
   misc:
     output: true
     permalink: /:collection/:path/
+  stuff:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -265,6 +268,14 @@ defaults:
   - scope:
       path: ""
       type: misc
+    values:
+      layout: single
+      author_profile: true
+      comment: true
+   # _stuff
+  - scope:
+      path: ""
+      type: stuff
     values:
       layout: single
       author_profile: true
