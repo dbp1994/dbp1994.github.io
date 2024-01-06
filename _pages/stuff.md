@@ -5,8 +5,6 @@ permalink: /stuff/
 author_profile: true
 ---
 
-{% include base_path %}
-
 ## Some interesting links
 
 General:
