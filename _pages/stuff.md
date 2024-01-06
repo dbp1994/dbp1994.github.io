@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Miscelleneous"
+title: "Some interesting links"
 permalink: /stuff/
 author_profile: true
 ---
-
-## Some interesting links
 
 General:
 1. [Inequalities Cheat Sheet](http://www.lkozma.net/inequalities_cheat_sheet/)
