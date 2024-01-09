@@ -18,6 +18,13 @@ author_profile: true
 2. [Bhavana Magazine](https://bhavana.org.in/)
 3. [Arvind Gupta's 'Toys From Trash'](http://arvindguptatoys.com/)
 
+<details>
+ <summary>(Unorganized) Stuff</summary>
+#### (Unorganized) Stuff
+1. [The "What Is...?" column](https://arminstraub.com/math/what-is-column)
+2. [CSC2541 Winter 2022 Topics in Machine Learning: Neural Net Training Dynamics](https://www.cs.toronto.edu/~rgrosse/courses/csc2541_2022/)
+3. [Differential geometry for machine learning](https://metacademy.org/roadmaps/rgrosse/dgml)
+</details>
 <!---
 **Personal Library**
  
