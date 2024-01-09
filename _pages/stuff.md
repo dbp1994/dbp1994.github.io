@@ -9,9 +9,10 @@ author_profile: true
 ### General:
 1. [Inequalities Cheat Sheet](http://www.lkozma.net/inequalities_cheat_sheet/)
 2. [Optimization Inequalities Cheat Sheet](https://fa.bianp.net/blog/2017/optimization-inequalities-cheatsheet/)
-3. [arXiv Latex Cleaner](https://github.com/google-research/arxiv-latex-cleaner)
-4. [TeXtidote: a correction tool for LaTeX documents and other formats](https://github.com/sylvainhalle/textidote)
-5. [latexindent.pl: a perl script to beautify/format/indent latex source code](https://github.com/cmhughes/latexindent.pl)
+3. [The Good Research Code Handbook](https://goodresearch.dev/index.html)
+4. [arXiv Latex Cleaner](https://github.com/google-research/arxiv-latex-cleaner)
+5. [TeXtidote: a correction tool for LaTeX documents and other formats](https://github.com/sylvainhalle/textidote)
+6. [latexindent.pl: a perl script to beautify/format/indent latex source code](https://github.com/cmhughes/latexindent.pl)
 
 ### Popular Science in India:
 1. [Resonance Magazine](https://www.ias.ac.in/listing/issues/reso)
@@ -25,7 +26,6 @@ author_profile: true
 1. [The "What Is...?" column](https://arminstraub.com/math/what-is-column)
 2. [CSC2541 Winter 2022 Topics in Machine Learning: Neural Net Training Dynamics](https://www.cs.toronto.edu/~rgrosse/courses/csc2541_2022/)
 3. [Differential geometry for machine learning](https://metacademy.org/roadmaps/rgrosse/dgml)
-
 </details>
 
 
