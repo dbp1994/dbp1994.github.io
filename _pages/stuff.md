@@ -18,6 +18,7 @@ author_profile: true
 1. [Resonance Magazine](https://www.ias.ac.in/listing/issues/reso)
 2. [Bhavana Magazine](https://bhavana.org.in/)
 3. [Arvind Gupta's 'Toys From Trash'](http://arvindguptatoys.com/)
+4. [Prof. Yashpal's 'Turning Point'](https://scroll.in/video/845070/watch-this-film-is-a-tribute-to-scientist-yash-pal-1926-2017-who-made-science-easy-for-children)
 
 <details>
 <summary>(Unorganized) Stuff</summary>
