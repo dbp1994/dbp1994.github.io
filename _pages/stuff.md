@@ -19,15 +19,17 @@ author_profile: true
 1. [Resonance Magazine](https://www.ias.ac.in/listing/issues/reso)
 2. [Bhavana Magazine](https://bhavana.org.in/)
 3. [Arvind Gupta's 'Toys From Trash'](http://arvindguptatoys.com/)
-4. [Prof. Yashpal's 'Turning Point'](https://scroll.in/video/845070/watch-this-film-is-a-tribute-to-scientist-yash-pal-1926-2017-who-made-science-easy-for-children)
+4. [Pan-India initiative of _Maths Circles_](https://www.icts.res.in/outreach/maths-circle-india)
+5. [Science Gallery, Bengaluru](https://bengaluru.sciencegallery.com/)
+6. [Kaapi with Kuriosity - ICTS, Bengaluru](https://www.icts.res.in/outreach/kaapi-with-kuriosity)
+7. [Vigyan Adda - ICTS, Bengaluru](https://www.icts.res.in/outreach/vigyan-adda)
+8. [Prof. Yashpal's 'Turning Point'](https://scroll.in/video/845070/watch-this-film-is-a-tribute-to-scientist-yash-pal-1926-2017-who-made-science-easy-for-children)
 
 <details>
 <summary>(Unorganized) Stuff</summary>
- 
-### (Unorganized) Stuff
-1. [The "What Is...?" column](https://arminstraub.com/math/what-is-column)
-2. [CSC2541 Winter 2022 Topics in Machine Learning: Neural Net Training Dynamics](https://www.cs.toronto.edu/~rgrosse/courses/csc2541_2022/)
-3. [Differential geometry for machine learning](https://metacademy.org/roadmaps/rgrosse/dgml)
+ 1. [The "What Is...?" column](https://arminstraub.com/math/what-is-column)
+ 2. [CSC2541 Winter 2022 Topics in Machine Learning: Neural Net Training Dynamics](https://www.cs.toronto.edu/~rgrosse/courses/csc2541_2022/)
+ 3. [Differential geometry for machine learning](https://metacademy.org/roadmaps/rgrosse/dgml)
 </details>
 
 
