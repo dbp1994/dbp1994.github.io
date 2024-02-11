@@ -14,7 +14,7 @@ author_profile: true
 5. [TeXtidote: a correction tool for LaTeX documents and other formats](https://github.com/sylvainhalle/textidote)
 6. [latexindent.pl: a perl script to beautify/format/indent latex source code](https://github.com/cmhughes/latexindent.pl)
 
-### Popular Science and Science Communication in India:
+### Popular Science in India:
 (Please help me out by sending an email/DM if you know more such resources for any Indian languages!)
 1. [Resonance Magazine](https://www.ias.ac.in/listing/issues/reso)
 2. [Bhavana Magazine](https://bhavana.org.in/)
