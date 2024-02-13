@@ -26,11 +26,14 @@ author_profile: true
 8. [Prof. Yashpal's 'Turning Point'](https://scroll.in/video/845070/watch-this-film-is-a-tribute-to-scientist-yash-pal-1926-2017-who-made-science-easy-for-children)
 
 <details>
-<summary>(Unorganized) Stuff</summary>
+ <summary><b>(Unorganized) Stuff</b></summary>
+
+ I plan to add more stuff here and sort it on a semi-regular basis.
  
- 1. [The "What Is...?" column](https://arminstraub.com/math/what-is-column)
- 2. [CSC2541 Winter 2022 Topics in Machine Learning: Neural Net Training Dynamics](https://www.cs.toronto.edu/~rgrosse/courses/csc2541_2022/)
- 3. [Differential geometry for machine learning](https://metacademy.org/roadmaps/rgrosse/dgml)
+ - [The "What Is...?" column](https://arminstraub.com/math/what-is-column)
+ - [CSC2541 Winter 2022 Topics in Machine Learning: Neural Net Training Dynamics](https://www.cs.toronto.edu/~rgrosse/courses/csc2541_2022/)
+ - [Differential geometry for machine learning](https://metacademy.org/roadmaps/rgrosse/dgml)
+
 </details>
 
 
