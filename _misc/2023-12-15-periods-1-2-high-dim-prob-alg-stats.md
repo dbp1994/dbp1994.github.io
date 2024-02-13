@@ -16,7 +16,7 @@ I took an amazing course recently by Prof. Ilias Diakonikolas on "Algorithmic Hi
 
 - Lectures 1 to 3:
 - Lectures 4 to 6:
-
+<!--
 - Paper Review of two recent papers about Provable Learning under Label Noise ([CLICK HERE](\files\CS-880-Final-Project-Lit-Rev-DeepPatel.pdf))
 
 # Period-2: Theory of Reinforcement Learning
@@ -25,7 +25,7 @@ I am following the [book draft - Reinforcement Learning: Theory and Algorithms -
 
 - Lectures 1-2, 3: HERE, HERE
 - Lectures 3, 4, 5: HERE, HERE, HERE
-
+-->
 
 <!--
 
