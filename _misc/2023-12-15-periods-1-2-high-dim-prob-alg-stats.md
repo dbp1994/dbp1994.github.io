@@ -4,22 +4,27 @@ layout: splash
 permalink: /misc/2023-12-15-periods-1-2-high-dim-prob-alg-stats/
 date: 2023-12-15
 intro: 
-  - excerpt: 'Lecture notes on Algorithmic High-Dimensional Robust Statistics and High-Dimensional Probability'
+  - excerpt: 'Lecture notes on Algorithmic High-Dimensional Robust Statistics and Theory of Reinforcement Learning'
 ---
 
 I will document the summary of what I have been studying during Period-1 (16 weeks of Fall'23) and Period-2 (16 weeks of Spring'24):
 - Algorithmic High-Dimensional Robust Statistics (Period-1)
-- High-dimensional Probability & Applications (Period-2)
+- Theory of Reinforcement Learning (Period-2)
 
 # Period-1: Algorithmic Statistics
-I took an amazing course recently by Prof. Ilias Diakonikolas on "Algorithmic High-Dimensional Robust Statistics". Below are links to my personal notes from his book and the class he taught.
+I took an amazing course recently by Prof. Ilias Diakonikolas on "Algorithmic High-Dimensional Robust Statistics". Below are links to my personal notes from his book and the class he taught. I also studied two papers that look at the problem of learning under label noise through the lens of algorithmic statistics.
 
 - Lectures 1 to 3:
 - Lectures 4 to 6:
 
-# Period-2: High-Dimensional Probability
+- Paper Review of two recent papers about Provable Learning under Label Noise ([CLICK HERE](files/CS_880_Final_Project_Lit_Rev_DeepPatel.pdf))
 
-Will be updated periodically.
+# Period-2: Theory of Reinforcement Learning
+
+I am following the book draft -- Reinforcement Learning: Theory and Algorithms -- by Agarwal et al. for this. I will be posting my notes on a weekly basis.
+
+- Lectures 1&2, 3: HERE, HERE
+- Lecture 3, 4, 5: HERE, HERE, HERE
 
 
 <!--
