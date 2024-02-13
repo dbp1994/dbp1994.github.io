@@ -27,13 +27,11 @@ author_profile: true
 
 <details>
  <summary><b>(Unorganized) Stuff</b></summary>
-
  I plan to add more stuff here and sort it on a semi-regular basis.
  
  - [The "What Is...?" column](https://arminstraub.com/math/what-is-column)
  - [CSC2541 Winter 2022 Topics in Machine Learning: Neural Net Training Dynamics](https://www.cs.toronto.edu/~rgrosse/courses/csc2541_2022/)
  - [Differential geometry for machine learning](https://metacademy.org/roadmaps/rgrosse/dgml)
-
 </details>
 
 
