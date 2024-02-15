@@ -14,6 +14,13 @@ author_profile: true
 5. [TeXtidote: a correction tool for LaTeX documents and other formats](https://github.com/sylvainhalle/textidote)
 6. [latexindent.pl: a perl script to beautify/format/indent latex source code](https://github.com/cmhughes/latexindent.pl)
 
+### Maths $\cup$ Philosophy $\cup$ Humour $\cup$ Politics
+1. [Statistics of Inequality and Discrimination (2022, CMU)](https://www.stat.cmu.edu/~cshalizi/ineq/22/)
+2. [Math of Social Choice](https://sites.tufts.edu/socialchoice/)
+3. [Mathematical Models in Social Context](https://sites.tufts.edu/models/)
+4. [Political Geometry: Rethinking Redistricting in the US with Math, Law, and Everything In Between](https://mggg.org/gerrybook.html)
+5. [xkcd comics](https://xkcd.com/)
+
 ### Popular Science & Science Communication in India:
 (Please help me out by sending an email/DM if you know more such resources for any Indian languages!)
 1. [Resonance Magazine](https://www.ias.ac.in/listing/issues/reso)
@@ -31,7 +38,6 @@ author_profile: true
  
  I plan to add more stuff here and sort it on a semi-regular basis.
  
- - [Statistics of Inequality and Discrimination](https://www.stat.cmu.edu/~cshalizi/ineq/22/)
  - [The "What Is...?" column](https://arminstraub.com/math/what-is-column)
  - [Cosma's amazing notes](http://bactra.org/notebooks/)
  - [CSC2541 Winter 2022 Topics in Machine Learning: Neural Net Training Dynamics](https://www.cs.toronto.edu/~rgrosse/courses/csc2541_2022/)
