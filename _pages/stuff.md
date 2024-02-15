@@ -31,6 +31,7 @@ author_profile: true
  
  I plan to add more stuff here and sort it on a semi-regular basis.
  
+ - [Statistics of Inequality and Discrimination](https://www.stat.cmu.edu/~cshalizi/ineq/22/)
  - [The "What Is...?" column](https://arminstraub.com/math/what-is-column)
  - [Cosma's amazing notes](http://bactra.org/notebooks/)
  - [CSC2541 Winter 2022 Topics in Machine Learning: Neural Net Training Dynamics](https://www.cs.toronto.edu/~rgrosse/courses/csc2541_2022/)
