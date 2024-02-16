@@ -24,7 +24,6 @@ I am following the [book draft - Reinforcement Learning: Theory and Algorithms -
 
 - Lectures 1-2, 3: HERE, HERE
 - Lectures 3, 4, 5: HERE, HERE, HERE
--->
 
 <!--
 
