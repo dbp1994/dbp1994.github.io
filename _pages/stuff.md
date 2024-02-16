@@ -15,11 +15,18 @@ author_profile: true
 6. [latexindent.pl: a perl script to beautify/format/indent latex source code](https://github.com/cmhughes/latexindent.pl)
 
 ### Maths $\cup$ Philosophy $\cup$ Humour $\cup$ Politics
+(If you have any suggestions to add to this ever-expanding list, please send me an email/DM on Twitter. Thanks!)
 1. [Statistics of Inequality and Discrimination (2022, CMU)](https://www.stat.cmu.edu/~cshalizi/ineq/22/)
 2. [Math of Social Choice](https://sites.tufts.edu/socialchoice/)
 3. [Mathematical Models in Social Context](https://sites.tufts.edu/models/)
-4. [Political Geometry: Rethinking Redistricting in the US with Math, Law, and Everything In Between](https://mggg.org/gerrybook.html)
-5. [xkcd comics](https://xkcd.com/)
+4. [Mathematics of Social Choice: Voting, Compensation, and Division](https://www.google.com/books/edition/Mathematics_of_Social_Choice/dccBaphP1G4C?hl=en&gbpv=0)
+5. [Institute for Mathematics and Democracy](https://mathematics-democracy-institute.org/education-resources/)
+6. [MATH 342: The Mathematics of Social Choice (2017, Oberlin College)](https://www2.oberlin.edu/faculty/kwoods/math342.html)
+7. [Political Geometry: Rethinking Redistricting in the US with Math, Law, and Everything In Between](https://mggg.org/gerrybook.html)
+8. [xkcd comics](https://xkcd.com/)
+9. [Fairness and Machine Learning: Limitations and Opportunities](https://fairmlbook.org/)
+10. [Cornell INFO 4270: Ethics and Policy in Data Science](https://docs.google.com/document/d/1GV97qqvjQNvyM2I01vuRaAwHe9pQAZ9pbP7KkKveg1o/edit)
+11. [Game Theory, Alive](https://homes.cs.washington.edu/~karlin/GameTheoryBook.pdf)
 
 ### Popular Science & Science Communication in India:
 (Please help me out by sending an email/DM if you know more such resources for any Indian languages!)
