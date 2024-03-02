@@ -24,10 +24,11 @@ author_profile: true
 6. [MATH 342: The Mathematics of Social Choice (2017, Oberlin College)](https://www2.oberlin.edu/faculty/kwoods/math342.html)
 7. [Political Geometry: Rethinking Redistricting in the US with Math, Law, and Everything In Between](https://mggg.org/gerrybook.html)
 8. Getting to know Indian Constitution ([Bring Home The Constitution (Link #1)](https://www.youtube.com/playlist?list=PLD0K3mAIEYxfWmrxdp8McNBDwCDWI2URk), [Bring Home The Constitution (Link #2)](https://koodam.org/#primary), [Samvidhaan](https://www.youtube.com/watch?v=0U9KDQnIsNk), and [Consti-tution](https://www.newslaundry.com/consti-tuition))
-9. [xkcd comics](https://xkcd.com/)
-10. [Fairness and Machine Learning: Limitations and Opportunities](https://fairmlbook.org/)
-11. [Cornell INFO 4270: Ethics and Policy in Data Science](https://docs.google.com/document/d/1GV97qqvjQNvyM2I01vuRaAwHe9pQAZ9pbP7KkKveg1o/edit)
-12. [Game Theory, Alive](https://homes.cs.washington.edu/~karlin/GameTheoryBook.pdf)
+9. [(Indian) Constituent Assembly Debates](https://www.constitutionofindia.net/constitution-assembly-debates/)
+10. [xkcd comics](https://xkcd.com/)
+11. [Fairness and Machine Learning: Limitations and Opportunities](https://fairmlbook.org/)
+12. [Cornell INFO 4270: Ethics and Policy in Data Science](https://docs.google.com/document/d/1GV97qqvjQNvyM2I01vuRaAwHe9pQAZ9pbP7KkKveg1o/edit)
+13. [Game Theory, Alive](https://homes.cs.washington.edu/~karlin/GameTheoryBook.pdf)
 
 ### Popular Science & Science Communication in India:
 (Please help me out by sending an email/DM if you know more such resources for any Indian languages!)
