@@ -29,6 +29,7 @@ author_profile: true
 11. [Fairness and Machine Learning: Limitations and Opportunities](https://fairmlbook.org/)
 12. [Cornell INFO 4270: Ethics and Policy in Data Science](https://docs.google.com/document/d/1GV97qqvjQNvyM2I01vuRaAwHe9pQAZ9pbP7KkKveg1o/edit)
 13. [Game Theory, Alive](https://homes.cs.washington.edu/~karlin/GameTheoryBook.pdf)
+14. [Annual Status of Education Report -- India (ASER)](https://asercentre.org/)
 
 ### Popular Science & Science Communication in India:
 (Please help me out by sending an email/DM if you know more such resources for any Indian languages!)
