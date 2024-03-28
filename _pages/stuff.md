@@ -13,7 +13,8 @@ author_profile: true
 4. [arXiv Latex Cleaner](https://github.com/google-research/arxiv-latex-cleaner)
 5. [TeXtidote: a correction tool for LaTeX documents and other formats](https://github.com/sylvainhalle/textidote)
 6. [latexindent.pl: a perl script to beautify/format/indent latex source code](https://github.com/cmhughes/latexindent.pl)
-7. [Mathematical Writing by Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)
+7. [The Not So Short Introduction to LaTeX](https://tobi.oetiker.ch/lshort/lshort.pdf)
+8. [Mathematical Writing by Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)
 
 ### Maths $\cup$ Philosophy $\cup$ Humour $\cup$ Politics
 (If you have any suggestions to add to this ever-expanding list, please send me an email/DM on Twitter. Thanks!)
