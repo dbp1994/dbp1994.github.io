@@ -16,7 +16,8 @@ author_profile: true
 7. [The Not So Short Introduction to LaTeX](https://tobi.oetiker.ch/lshort/lshort.pdf)
 8. [Mathematical Writing by Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)
 9. [UW-Madison Writer’s Handbook](https://writing.wisc.edu/handbook/)
-10. [LaTeX -> Unicode (for texts/emails)](https://www.unicodeit.net/)
+10. [Grammar, Punctuation, and Capitalization: A Handbook for Technical Writers and Editors](https://ntrs.nasa.gov/citations/19900017394)
+11. [LaTeX -> Unicode (for texts/emails)](https://www.unicodeit.net/)
 
 ### Related to Machine Learning and Statistics:
 1. [Duchi's lecture notes on _Statistics and Information Theory_](https://harit7.github.io/resources/)
