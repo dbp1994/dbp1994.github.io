@@ -47,7 +47,7 @@ author_profile: true
 (Please help me out by sending an email/DM if you know more such resources for any Indian languages!)
 1. [Resonance Magazine](https://www.ias.ac.in/listing/issues/reso)
 2. [Bhavana Magazine](https://bhavana.org.in/)
-3. [Arvind Gupta's 'Toys From Trash'](http://arvindguptatoys.com/)
+3. [Arvind Gupta's 'Toys From Trash'](http://arvindguptatoys.com/)[(A Recent Interview)](https://www.youtube.com/watch?v=1ZItgy0yKP0)
 4. [Pan-India initiative of _Maths Circles_](https://www.icts.res.in/outreach/maths-circle-india)
 5. [Science Gallery, Bengaluru](https://bengaluru.sciencegallery.com/)
 6. [Kaapi with Kuriosity - ICTS, Bengaluru](https://www.icts.res.in/outreach/kaapi-with-kuriosity)
