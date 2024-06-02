@@ -24,7 +24,7 @@ author_profile: true
 2. [Tropp's lecture notes on _Concentration Inequalities_](https://tropp.caltech.edu/notes/Tro21-Probability-High-LN-corr.pdf)
 3. [(BASIC) Introduction to Statistical Learning Theory by Bousquet, Boucheron, and Lugosi](https://econ.upf.edu/~lugosi/mlss_slt.pdf)
 4. [(ADVANCED) Theory of Classification: A Survey of Some Recent Advances](https://econ.upf.edu/~lugosi/esaimsurvey.pdf)
-5. [Endless educational material inspirations for Statistics classes](https://www.tandfonline.com/loi/utas20)
+5. [Endless educational material inspirations for Statistics classes](https://www.tandfonline.com/loi/utas20) (Examples: [1](https://www.tandfonline.com/doi/abs/10.1198/0003130042836), [2](https://www.jstor.org/stable/2685844), [3](https://www.tandfonline.com/doi/full/10.1080/00031305.2020.1717620))
 
 ### Maths $\cup$ Philosophy $\cup$ Humour $\cup$ Politics
 (If you have any suggestions to add to this ever-expanding list, please send me an email/DM on Twitter. Thanks!)
