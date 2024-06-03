@@ -20,7 +20,7 @@ I took an amazing course recently by Prof. Ilias Diakonikolas on "Algorithmic Hi
 
 # Period-2: Theory of Reinforcement Learning
 
-I am following the [book draft - Reinforcement Learning: Theory and Algorithms - by Agarwal et al.](https://rltheorybook.github.io/rltheorybook_AJKS.pdf) for this. I will be posting my notes on a weekly basis.
+I am following the [book draft - Reinforcement Learning: Theory and Algorithms - by Agarwal et al.](https://rltheorybook.github.io/rltheorybook_AJKS.pdf) for this.
 
 - Lectures 1-2, 3: HERE, HERE
 - Lectures 3, 4, 5: HERE, HERE, HERE
