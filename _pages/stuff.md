@@ -66,6 +66,7 @@ I plan to add more stuff here and sort it on a semi-regular basis.
 5. [Discover Linear Algebra](https://people.cs.uchicago.edu/~laci/HANDOUTS/linalgbook.pdf)
 6. [Tensors in computations](https://arxiv.org/abs/2106.08090)
 7. [Discovering Transforms: A Tutorial on Circulant Matrices, Circular Convolution, and the Discrete Fourier Transform](https://arxiv.org/abs/1805.05533)
+8. [Category Theory Illustrated](https://abuseofnotation.github.io/category-theory-illustrated/) ([Other Resources](https://github.com/prathyvsh/category-theory-resources))
 <!--- <details>
  
  <summary><b>(Unorganized) Stuff</b></summary>
