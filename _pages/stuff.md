@@ -35,7 +35,7 @@ author_profile: true
 5. [Institute for Mathematics and Democracy](https://mathematics-democracy-institute.org/education-resources/)
 6. [MATH 342: The Mathematics of Social Choice (2017, Oberlin College)](https://www2.oberlin.edu/faculty/kwoods/math342.html)
 7. [Political Geometry: Rethinking Redistricting in the US with Math, Law, and Everything In Between](https://mggg.org/gerrybook.html)
-8. Getting to know Indian Constitution ([Bring Home The Constitution (Link #1)](https://www.youtube.com/playlist?list=PLD0K3mAIEYxfWmrxdp8McNBDwCDWI2URk), [Bring Home The Constitution (Link #2)](https://koodam.org/#primary), [Samvidhaan](https://www.youtube.com/watch?v=0U9KDQnIsNk), and [Consti-tution](https://www.newslaundry.com/consti-tuition), [Know and Track Your MP's work](https://prsindia.org/))
+8. Getting to know Indian Constitution ([Bring Home The Constitution (Link #1)](https://www.youtube.com/playlist?list=PLD0K3mAIEYxfWmrxdp8McNBDwCDWI2URk), [Bring Home The Constitution (Link #2)](https://koodam.org/#primary), [Samvidhaan](https://www.youtube.com/watch?v=0U9KDQnIsNk), and [Consti-tution](https://www.newslaundry.com/consti-tuition), [Know and Track Your MP's/MLA's work](https://prsindia.org/))
 9. [(Indian) Constituent Assembly Debates](https://www.constitutionofindia.net/constitution-assembly-debates/)
 10. [xkcd comics](https://xkcd.com/)
 11. [Fairness and Machine Learning: Limitations and Opportunities](https://fairmlbook.org/)
