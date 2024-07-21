@@ -67,6 +67,7 @@ I plan to add more stuff here and sort it on a semi-regular basis.
 6. [Tensors in computations](https://arxiv.org/abs/2106.08090)
 7. [Discovering Transforms: A Tutorial on Circulant Matrices, Circular Convolution, and the Discrete Fourier Transform](https://arxiv.org/abs/1805.05533)
 8. [Category Theory Illustrated](https://abuseofnotation.github.io/category-theory-illustrated/) ([Other Resources](https://github.com/prathyvsh/category-theory-resources))
+9. [The Napkin Project](https://web.evanchen.cc/napkin.html)
 
 <!---
 <details>
