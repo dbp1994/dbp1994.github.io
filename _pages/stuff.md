@@ -9,15 +9,16 @@ author_profile: true
 ### General:
 1. [Inequalities Cheat Sheet](http://www.lkozma.net/inequalities_cheat_sheet/)
 2. [Optimization Inequalities Cheat Sheet](https://fa.bianp.net/blog/2017/optimization-inequalities-cheatsheet/)
-3. [The Good Research Code Handbook](https://goodresearch.dev/index.html)
-4. [arXiv Latex Cleaner](https://github.com/google-research/arxiv-latex-cleaner)
-5. [TeXtidote: a correction tool for LaTeX documents and other formats](https://github.com/sylvainhalle/textidote)
-6. [latexindent.pl: a perl script to beautify/format/indent latex source code](https://github.com/cmhughes/latexindent.pl)
-7. [The Not So Short Introduction to LaTeX](https://tobi.oetiker.ch/lshort/lshort.pdf)
-8. [Mathematical Writing by Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)
-9. [UW-Madison Writer’s Handbook](https://writing.wisc.edu/handbook/)
-10. [Grammar, Punctuation, and Capitalization: A Handbook for Technical Writers and Editors](https://ntrs.nasa.gov/citations/19900017394)
-11. [LaTeX -> Unicode (for texts/emails)](https://www.unicodeit.net/)
+3. [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+4. [The Good Research Code Handbook](https://goodresearch.dev/index.html)
+5. [arXiv Latex Cleaner](https://github.com/google-research/arxiv-latex-cleaner)
+6. [TeXtidote: a correction tool for LaTeX documents and other formats](https://github.com/sylvainhalle/textidote)
+7. [latexindent.pl: a perl script to beautify/format/indent latex source code](https://github.com/cmhughes/latexindent.pl)
+8. [The Not So Short Introduction to LaTeX](https://tobi.oetiker.ch/lshort/lshort.pdf)
+9. [Mathematical Writing by Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)
+10. [UW-Madison Writer’s Handbook](https://writing.wisc.edu/handbook/)
+11. [Grammar, Punctuation, and Capitalization: A Handbook for Technical Writers and Editors](https://ntrs.nasa.gov/citations/19900017394)
+12. [LaTeX -> Unicode (for texts/emails)](https://www.unicodeit.net/)
 
 ### Related to Machine Learning and Statistics:
 1. [John Duchi's lecture notes on _Statistics and Information Theory_](https://web.stanford.edu/class/stats311/lecture-notes.pdf)
@@ -69,6 +70,7 @@ I plan to add more stuff here and sort it on a semi-regular basis.
 8. [Category Theory Illustrated](https://abuseofnotation.github.io/category-theory-illustrated/) ([Other Resources](https://github.com/prathyvsh/category-theory-resources))
 9. [The Napkin Project](https://web.evanchen.cc/napkin.html)
 10. [The Top Idea in Your Mind](https://paulgraham.com/top.html)
+11. [Support for type hints - Python](https://docs.python.org/3/library/typing.html)
 
 <!---
 <details>
