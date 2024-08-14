@@ -62,17 +62,18 @@ author_profile: true
 
 I plan to add more stuff here and sort it on a semi-regular basis.
 
-1. [The "What Is...?" column](https://arminstraub.com/math/what-is-column)
-2. [Cosma's amazing notes](http://bactra.org/notebooks/)
-3. [CSC2541 Winter 2022 Topics in Machine Learning: Neural Net Training Dynamics](https://www.cs.toronto.edu/~rgrosse/courses/csc2541_2022/)
-4. [Differential geometry for machine learning](https://metacademy.org/roadmaps/rgrosse/dgml)
-5. [Discover Linear Algebra](https://people.cs.uchicago.edu/~laci/HANDOUTS/linalgbook.pdf)
-6. [Tensors in computations](https://arxiv.org/abs/2106.08090)
-7. [Discovering Transforms: A Tutorial on Circulant Matrices, Circular Convolution, and the Discrete Fourier Transform](https://arxiv.org/abs/1805.05533)
-8. [Category Theory Illustrated](https://abuseofnotation.github.io/category-theory-illustrated/) ([Other Resources](https://github.com/prathyvsh/category-theory-resources))
-9. [The Napkin Project](https://web.evanchen.cc/napkin.html)
-10. [The Top Idea in Your Mind](https://paulgraham.com/top.html)
-11. [Support for type hints - Python](https://docs.python.org/3/library/typing.html)
+1. [All Things Indian Food](https://masalalab.in/)
+2. [The "What Is...?" column](https://arminstraub.com/math/what-is-column)
+3. [Cosma's amazing notes](http://bactra.org/notebooks/)
+4. [CSC2541 Winter 2022 Topics in Machine Learning: Neural Net Training Dynamics](https://www.cs.toronto.edu/~rgrosse/courses/csc2541_2022/)
+5. [Differential geometry for machine learning](https://metacademy.org/roadmaps/rgrosse/dgml)
+6. [Discover Linear Algebra](https://people.cs.uchicago.edu/~laci/HANDOUTS/linalgbook.pdf)
+7. [Tensors in computations](https://arxiv.org/abs/2106.08090)
+8. [Discovering Transforms: A Tutorial on Circulant Matrices, Circular Convolution, and the Discrete Fourier Transform](https://arxiv.org/abs/1805.05533)
+9. [Category Theory Illustrated](https://abuseofnotation.github.io/category-theory-illustrated/) ([Other Resources](https://github.com/prathyvsh/category-theory-resources))
+10. [The Napkin Project](https://web.evanchen.cc/napkin.html)
+11. [The Top Idea in Your Mind](https://paulgraham.com/top.html)
+12. [Support for type hints - Python](https://docs.python.org/3/library/typing.html)
 
 <!---
 <details>
