@@ -16,11 +16,12 @@ author_profile: true
 7. [TE​Xnique: A LaTeX Typesetting Game](https://texnique.xyz/)
 8. [TeXtidote: a correction tool for LaTeX documents and other formats](https://github.com/sylvainhalle/textidote)
 9. [latexindent.pl: a perl script to beautify/format/indent latex source code](https://github.com/cmhughes/latexindent.pl)
-10. [The Not So Short Introduction to LaTeX](https://tobi.oetiker.ch/lshort/lshort.pdf)
-11. [Mathematical Writing by Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)
-12. [UW-Madison Writer’s Handbook](https://writing.wisc.edu/handbook/)
-13. [Grammar, Punctuation, and Capitalization: A Handbook for Technical Writers and Editors](https://ntrs.nasa.gov/citations/19900017394)
-14. [LaTeX -> Unicode (for texts/emails)](https://www.unicodeit.net/)
+10. [How To Give A Colloquium](\files\How_to_give_a_colloquium.pdf)
+11. [The Not So Short Introduction to LaTeX](https://tobi.oetiker.ch/lshort/lshort.pdf)
+12. [Mathematical Writing by Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)
+13. [UW-Madison Writer’s Handbook](https://writing.wisc.edu/handbook/)
+14. [Grammar, Punctuation, and Capitalization: A Handbook for Technical Writers and Editors](https://ntrs.nasa.gov/citations/19900017394)
+15. [LaTeX -> Unicode (for texts/emails)](https://www.unicodeit.net/)
 
 ### Related to Machine Learning and Statistics:
 1. [John Duchi's lecture notes on _Statistics and Information Theory_](https://web.stanford.edu/class/stats311/lecture-notes.pdf)
