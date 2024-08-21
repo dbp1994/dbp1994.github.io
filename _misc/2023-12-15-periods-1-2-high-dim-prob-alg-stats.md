@@ -4,12 +4,11 @@ layout: splash
 permalink: /misc/2023-12-15-periods-1-2-high-dim-prob-alg-stats/
 date: 2023-12-15
 intro: 
-  - excerpt: 'Lecture notes on Algorithmic High-Dimensional Robust Statistics and Theory of Reinforcement Learning'
+  - excerpt: 'Lecture notes on Algorithmic High-Dimensional Robust Statistics'
 ---
 
-I will document the summary of what I have been studying during Period-1 (16 weeks of Fall'23) and Period-2 (16 weeks of Spring'24):
+I will document the summary of what I have been studying during Period-1 (16 weeks of Fall'23):
 - Algorithmic High-Dimensional Robust Statistics (Period-1)
-- Theory of Reinforcement Learning (Period-2)
 
 # Period-1: Algorithmic Statistics
 I took an amazing course recently by Prof. Ilias Diakonikolas on "Algorithmic High-Dimensional Robust Statistics". Below are links to my personal notes from his book and the class he taught. I also studied two papers that look at the problem of learning under label noise through the lens of algorithmic statistics.
@@ -18,6 +17,7 @@ I took an amazing course recently by Prof. Ilias Diakonikolas on "Algorithmic Hi
 - Lectures 4 to 6: _Will be uploaded soon_
 - Paper Review of two recent papers about Provable Learning under Label Noise ([CLICK HERE](\files\CS-880-Final-Project-Lit-Rev-DeepPatel.pdf))
 
+<!--
 # Period-2: Theory of Reinforcement Learning
 
 I am following the [book draft - Reinforcement Learning: Theory and Algorithms - by Agarwal et al.](https://rltheorybook.github.io/rltheorybook_AJKS.pdf) for this.
@@ -25,6 +25,7 @@ I am following the [book draft - Reinforcement Learning: Theory and Algorithms -
 - Lectures 1-2, 3: HERE, HERE
 - Lectures 3, 4, 5: HERE, HERE, HERE
 - Paper Review of recent works on Machine Teaching for Sequential Learners ([CLICK HERE](\files\CS839_Lit_Review_Machine_Teaching_Seq_Learners.pdf))
+-->
 
 <!--
 
