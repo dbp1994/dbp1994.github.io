@@ -9,7 +9,7 @@ redirect_from:
 <!-- excerpt: "About me"
 -->
 
-I am a first year Ph.D student at the [Department of Computer Sciences](https://cs.wisc.edu){:target="_blank"}, [University of Wisconsin-Madison](https://wisc.edu/){:target="_blank"}. My interests are in the broad areas of weakly supervised learning and deep learning theory. Currently, I am trying to understand various aspects of [Machine Teaching](https://pages.cs.wisc.edu/~jerryzhu/research.html) and [Algorithmic High-Dimensional Robust Statistics](https://sites.google.com/view/ars-book/).
+I am a second year Ph.D student at the [Department of Computer Sciences](https://cs.wisc.edu){:target="_blank"}, [University of Wisconsin-Madison](https://wisc.edu/){:target="_blank"}. My interests are in the broad areas of weakly supervised learning and deep learning theory. Currently, I am trying to understand various aspects of [Machine Teaching](https://pages.cs.wisc.edu/~jerryzhu/research.html) and [Algorithmic High-Dimensional Robust Statistics](https://sites.google.com/view/ars-book/).
 
 Previously, I worked with the amazing [Prof. PS Sastry](https://ee.iisc.ac.in/sastry-p-s/){:target="_blank"} at the [Department of Electrical Engineering, Indian Institute of Science, Bangalore](https://ee.iisc.ac.in) where my research was supported by the [Prime Minister's Research Fellowship](https://www.pmrf.in/). My work was on the problem of learning under _label noise_ and _adversarial noise_ with _deep neural nets_. This is also where I did my M.Tech (Research) (with [Prof. PS Sastry](https://ee.iisc.ac.in/sastry-p-s/){:target="_blank"} in the same department) and, as a part of my master's thesis, I worked on _robust supervised learning in the presence of label noise_.
 
