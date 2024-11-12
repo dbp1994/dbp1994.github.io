@@ -32,7 +32,7 @@ author_profile: true
 
 ### Maths $\cup$ Philosophy $\cup$ Humour $\cup$ Politics
 (If you have any suggestions to add to this ever-expanding list, please send me an email/DM on Twitter. Thanks!)
-1. [Optimized Democracy (Ariel Procaccia's course](https://sites.google.com/view/optdemocracy24)
+1. [Optimized Democracy (Ariel Procaccia's course)](https://sites.google.com/view/optdemocracy24)
 2. [Statistics of Inequality and Discrimination (2022, CMU)](https://www.stat.cmu.edu/~cshalizi/ineq/22/)
 3. [Math of Social Choice](https://sites.tufts.edu/socialchoice/)
 4. [Mathematical Models in Social Context](https://sites.tufts.edu/models/)
