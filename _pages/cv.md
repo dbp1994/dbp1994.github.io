@@ -15,8 +15,8 @@ Research Interests
 ------
 I am interested in understanding machine learning problems through the lens of geometry, statistics, and optimization.
 
-Current research interests - weakly supervised learning and learning theory <br>
-Other interests - information-constrained statistical inference and causal inference
+Current research interests - learning theory, robustness issues in machine learning <br>
+Other interests - information-constrained statistical inference, causal inference, geometric deep learning
 
 <!-- [Publications](https://dbp1994.github.io/publications/){:target="_blank"}
 ------ -->
