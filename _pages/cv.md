@@ -85,6 +85,9 @@ Other Research Experiences
 
 Teaching experience
 ------
+* Fall'24: Teaching Assistant
+  * Course: Programming for Behavioural Data Science
+  * Instructor: Dr. Adam Ross Nelson
 
 * Spring'24, Fall'23: Teaching Assistant
   * Course: Basic Statistics for Psychology
