@@ -42,7 +42,7 @@ Other Publications
 ------
 ### Analysis of Speech Signals
 
-* Comparison of Speech Tasks and Recording Devices for Voice Based Automatic Classification of Healthy Subjects and Patients with Amyotrophic Lateral Sclerosis - Interspeech, 2019 \[[**paper**](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1285.html)\]
+* Comparison of Speech Tasks and Recording Devices for Voice Based Automatic Classification of Healthy Subjects and Patients with Amyotrophic Lateral Sclerosis - Interspeech, 2019 \[[**paper**](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1285.html)\] \[[**poster**](\files\Suhas_IS_2019_Poster.pdf)\]
 * Comparison of Speech Tasks for Automatic Classification of Patients with Amyotrophic Lateral Sclerosis and Healthy Subjects - International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2018 \[[**paper**](https://ieeexplore.ieee.org/document/8461836)\]
 
 Presentations and Talks
