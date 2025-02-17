@@ -25,7 +25,7 @@ Contact me at `dbp[dot]patel[dot]1994[at]gmail[dot]com` or `dbpatel5[at]wisc[dot
 News
 ---
 * 2025 - [Upcoming] Preprint on _The Role of Overparametrization in Playing Games with Neural Nets_
-* 2025 - [Upcoming] Preprint on _Machine Teaching for Teaching Version Space Learners_
+* 2025 - [Upcoming] Preprint on _Limited-Budget Machine Teaching for Version Space Learners_
 * 08/2023 - I have moved to UW-Madison for my PhD at the CS Department!
 * 07/2023 - Student volunteer for COLT'23. Amazing experience!
 * 12/2022 - I got selected for '[Research Week with Google 2023](https://sites.google.com/view/researchweek2023/home)'. Excited for this meet!
