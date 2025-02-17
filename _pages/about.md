@@ -9,7 +9,7 @@ redirect_from:
 <!-- excerpt: "About me"
 -->
 
-I am a second year Ph.D student at the [Department of Computer Sciences](https://cs.wisc.edu){:target="_blank"}, [University of Wisconsin-Madison](https://wisc.edu/){:target="_blank"}. My interests are in the broad areas of weakly supervised learning and computational learning theory. I am fortunate to be advised by [Prof. Manolis Vlatakis](https://pages.cs.wisc.edu/~vlatakis/) with whom I currently work on problems at the intersection of learning theory and game theory.
+I am a second year Ph.D student at the [Department of Computer Sciences](https://cs.wisc.edu){:target="_blank"}, [University of Wisconsin-Madison](https://wisc.edu/){:target="_blank"}. My interests are in the broad areas of weakly supervised learning and computational learning theory. I am fortunate to be advised by [Prof. Manolis Vlatakis](https://pages.cs.wisc.edu/~vlatakis/) with whom I work on problems at the intersection of learning theory and game theory.
 
 Previously, I worked with the amazing [Prof. PS Sastry](https://ee.iisc.ac.in/sastry-p-s/){:target="_blank"} at the [Department of Electrical Engineering, Indian Institute of Science, Bangalore](https://ee.iisc.ac.in) where my research was supported by the [Prime Minister's Research Fellowship](https://www.pmrf.in/). My work was on the problem of learning under _label noise_ and _adversarial noise_ with _deep neural nets_. This is also where I did my M.Tech (Research) (with [Prof. PS Sastry](https://ee.iisc.ac.in/sastry-p-s/){:target="_blank"} in the same department) and, as a part of my master's thesis, I worked on _robust supervised learning in the presence of label noise_.
 
