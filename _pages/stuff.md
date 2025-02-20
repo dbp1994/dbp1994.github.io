@@ -9,6 +9,7 @@ author_profile: true
 ### Creative Thinking in Scientific Research:
 1. [The importance of stupidity in scientific research](\files\importance_of_stupidity_in_research.pdf)
 2. Night Science [[Materials]](https://www.night-science.org/) [[Podcast]](https://open.spotify.com/show/6berzd2rX6rpJQ6CPnbOtI)
+3. [It Takes Two To Think by Itai Yanai](\files\it_takes_two_to_think.jpg)
 
 ### General:
 1. [Inequalities Cheat Sheet](http://www.lkozma.net/inequalities_cheat_sheet/)
