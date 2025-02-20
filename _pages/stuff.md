@@ -8,6 +8,7 @@ author_profile: true
 
 ### Creative Thinking:
 1. [The importance of stupidity in scientific research](\files\importance_of_stupidity_in_research.pdf)
+2. Night Science [[Materials]](https://www.night-science.org/) [[Podcast]](https://open.spotify.com/show/6berzd2rX6rpJQ6CPnbOtI)
 
 ### General:
 1. [Inequalities Cheat Sheet](http://www.lkozma.net/inequalities_cheat_sheet/)
