@@ -6,6 +6,9 @@ author_profile: true
 ---
 {% include base_path %}
 
+### Creative Thinking:
+1. [The importance of stupidity in scientific research](\files\importance_of_stupidity_in_research.pdf)
+
 ### General:
 1. [Inequalities Cheat Sheet](http://www.lkozma.net/inequalities_cheat_sheet/)
 2. [Optimization Inequalities Cheat Sheet](https://fa.bianp.net/blog/2017/optimization-inequalities-cheatsheet/)
