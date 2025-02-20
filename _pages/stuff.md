@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-### Creative Thinking:
+### Creative Thinking in Scientific Research:
 1. [The importance of stupidity in scientific research](\files\importance_of_stupidity_in_research.pdf)
 2. Night Science [[Materials]](https://www.night-science.org/) [[Podcast]](https://open.spotify.com/show/6berzd2rX6rpJQ6CPnbOtI)
 
