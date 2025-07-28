@@ -22,8 +22,8 @@ main:
   - title: "CV"
     url: /cv/
   
-  - title: "Personal Log (Experimental)"
-    url: /misc/
+  # - title: "Personal Log (Experimental)"
+  #  url: /misc/
 
   - title: "Miscellaneous"
     url: /stuff/
