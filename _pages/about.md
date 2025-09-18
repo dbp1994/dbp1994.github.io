@@ -9,7 +9,7 @@ redirect_from:
 <!-- excerpt: "About me"
 -->
 
-I am a second year Ph.D student at the [Department of Computer Sciences](https://cs.wisc.edu){:target="_blank"}, [University of Wisconsin-Madison](https://wisc.edu/){:target="_blank"}. My interests are in the broad areas of weakly supervised learning and computational learning theory. I am fortunate to be advised by [Prof. Manolis Vlatakis](https://pages.cs.wisc.edu/~vlatakis/) with whom I work on problems at the intersection of learning theory and game theory.
+I am a third year Ph.D student at the [Department of Computer Sciences](https://cs.wisc.edu){:target="_blank"}, [University of Wisconsin-Madison](https://wisc.edu/){:target="_blank"}. My interests are in the broad areas of weakly supervised learning and computational learning theory. I am fortunate to be advised by [Prof. Manolis Vlatakis](https://pages.cs.wisc.edu/~vlatakis/) with whom I work on problems at the intersection of learning theory and game theory.
 
 Previously, I worked with the amazing [Prof. PS Sastry](https://ee.iisc.ac.in/sastry-p-s/){:target="_blank"} at the [Department of Electrical Engineering, Indian Institute of Science, Bangalore](https://ee.iisc.ac.in) where my research was supported by the [Prime Minister's Research Fellowship](https://www.pmrf.in/). My work was on the problem of learning under _label noise_ and _adversarial noise_ with _deep neural nets_. This is also where I did my M.Tech (Research) (with [Prof. PS Sastry](https://ee.iisc.ac.in/sastry-p-s/){:target="_blank"} in the same department) and, as a part of my master's thesis, I worked on _robust supervised learning in the presence of label noise_.
 
@@ -24,8 +24,10 @@ Contact me at `dbp[dot]patel[dot]1994[at]gmail[dot]com` or `dbpatel5[at]wisc[dot
 
 News
 ---
-* 2025 - [Upcoming] Preprint on _The Role of Overparametrization in Playing Games with Neural Nets_
-* 2025 - [Upcoming] Preprint on _Limited-Budget Machine Teaching for Version Space Learners_
+* 2025 - [Upcoming] Preprint on _Solving Neural Min-Max Games: The Role of Architecture, Initialization & Dynamics_
+* 2025 - [Upcoming] Preprint on _Optimal Dataset Design for Nurture-then-Nature Teaching_
+* 09/2025 - I was selected to attend the [EPFL Summer School 2025](https://mathsdata2025.github.io/). Amazing venue, great lectures, and a diverse crowd of theoretical machine learning researchers!
+* 06/2025-07/2025 - I was fortunate to be part of a 5-weeks-long academic summer exchange programme at Archimedes AI, Athens, Greece!
 * 08/2023 - I have moved to UW-Madison for my PhD at the CS Department!
 * 07/2023 - Student volunteer for COLT'23. Amazing experience!
 * 12/2022 - I got selected for '[Research Week with Google 2023](https://sites.google.com/view/researchweek2023/home)'. Excited for this meet!
