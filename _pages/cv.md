@@ -31,7 +31,7 @@ Theses
 Advisor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}<br>
 \[[**Thesis**](\files\deep-patel-iisc-masters-thesis.pdf)\] **|** \[[**Slides**](\files\deep-masters-defense.pdf)\] **|** \[[**Codes**](https://github.com/dbp1994/masters_thesis_codes)\]
 
-Publications \[Related to my thesis\]
+Publications \[Related to my Thesis\]
 ------
 * Solving Neural Min-Max Games: The Role of Architecture, Initialization, and Dynamics - NeurIPS 2025 (Spotlight) \[[**paper**](https://openreview.net/forum?id=5xdbWUdM87)\] \[[**video (5 mins.)**]()\] \[[**poster**](\files\NeurIPS_2025_Hidden_Games_Overparameterization_Poster.pdf)\] \[[**slides (5 mins)**](\files\solving_hidden_games_overaparameterization_neurips_2025_spotlight.pdf)\]
 
@@ -39,8 +39,9 @@ Other Publications
 ------
 ### Robust Learning under Label Noise
 
-* Memorization in Deep Neural Networks: Does the Loss Function matter? - PAKDD 2021 \[[**paper**](https://arxiv.org/abs/2107.09957)\] \[[**video**](https://youtu.be/6hkEC1IEJdo)\] \[[**code**](https://github.com/dbp1994/memorization-pakdd-2021)\] \[[**presentation**](\files\pakdd-role-of-loss.pdf)\]
+* Estimating Label Noise Rates with Class-specific Thresholds - Under preparation
 * Adaptive Sample Selection for Robust Learning under Label Noise - WACV 2023 \[[**paper**](https://arxiv.org/abs/2106.15292)\] \[[**code**](https://github.com/dbp1994/bare-wacv-2023)\] \[[**video**](https://youtu.be/tLT5PlQYIA0)\] \[[**poster**](\files\bare-wacv-2023-poster.pdf)\]
+* Memorization in Deep Neural Networks: Does the Loss Function matter? - PAKDD 2021 \[[**paper**](https://arxiv.org/abs/2107.09957)\] \[[**video**](https://youtu.be/6hkEC1IEJdo)\] \[[**code**](https://github.com/dbp1994/memorization-pakdd-2021)\] \[[**presentation**](\files\pakdd-role-of-loss.pdf)\]
 
 ### Analysis of Speech Signals
 
