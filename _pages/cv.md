@@ -31,15 +31,17 @@ Theses
 Advisor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}<br>
 \[[**Thesis**](\files\deep-patel-iisc-masters-thesis.pdf)\] **|** \[[**Slides**](\files\deep-masters-defense.pdf)\] **|** \[[**Codes**](https://github.com/dbp1994/masters_thesis_codes)\]
 
-Publications \[Related to Thesis\]
+Publications \[Related to my thesis\]
+------
+* Solving Neural Min-Max Games: The Role of Architecture, Initialization, and Dynamics - NeurIPS 2025 \[[**paper**]()\] \[[**video**]()\] \[[**code**]()\] \[[**presentation**]()\]
+
+Other Publications
 ------
 ### Robust Learning under Label Noise
 
 * Memorization in Deep Neural Networks: Does the Loss Function matter? - PAKDD 2021 \[[**paper**](https://arxiv.org/abs/2107.09957)\] \[[**video**](https://youtu.be/6hkEC1IEJdo)\] \[[**code**](https://github.com/dbp1994/memorization-pakdd-2021)\] \[[**presentation**](\files\pakdd-role-of-loss.pdf)\]
 * Adaptive Sample Selection for Robust Learning under Label Noise - WACV 2023 \[[**paper**](https://arxiv.org/abs/2106.15292)\] \[[**code**](https://github.com/dbp1994/bare-wacv-2023)\] \[[**video**](https://youtu.be/tLT5PlQYIA0)\] \[[**poster**](\files\bare-wacv-2023-poster.pdf)\]
 
-Other Publications
-------
 ### Analysis of Speech Signals
 
 * Comparison of Speech Tasks and Recording Devices for Voice Based Automatic Classification of Healthy Subjects and Patients with Amyotrophic Lateral Sclerosis - Interspeech, 2019 \[[**paper**](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1285.html)\] \[[**poster**](\files\Suhas_IS_2019_Poster.pdf)\]
@@ -85,10 +87,18 @@ Other Research Experiences
 
 Teaching experience
 ------
-* Fall'24: Teaching Assistant
+* Fall'25: Teaching Assistant
   * Course: Programming for Behavioural Data Science
   * Instructor: Dr. Adam Ross Nelson
 
+* Spring'25: Teaching Assistant
+  * Course: Design and Analysis of Psychological Experiments II
+  * Instructor: Dr. Benjamin Douglas
+    
+* Fall'24: Teaching Assistant
+  * Course: Programming for Behavioural Data Science
+  * Instructor: Dr. Adam Ross Nelson
+    
 * Spring'24, Fall'23: Teaching Assistant
   * Course: Basic Statistics for Psychology
   * Instructor: [Prof. Rebecca Addington](https://psych.wisc.edu/staff/addington-rebecca/){:target="_blank"}
