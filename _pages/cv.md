@@ -33,7 +33,7 @@ Advisor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:t
 
 Publications \[Related to my thesis\]
 ------
-* Solving Neural Min-Max Games: The Role of Architecture, Initialization, and Dynamics - NeurIPS 2025 (Spotlight) \[[**paper**]()\] \[[**video**]()\] \[[**code**]()\] \[[**presentation**]()\]
+* Solving Neural Min-Max Games: The Role of Architecture, Initialization, and Dynamics - NeurIPS 2025 (Spotlight) \[[**paper**](https://openreview.net/forum?id=5xdbWUdM87)\] \[[**video (5 mins.)**]()\] \[[**poster**](\files\NeurIPS_2025_Hidden_Games_Overparameterization_Poster.pdf)\] \[[**slides (5 mins)**](\files\solving_hidden_games_overaparameterization_neurips_2025_spotlight.pdf)\]
 
 Other Publications
 ------
