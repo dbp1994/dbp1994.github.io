@@ -33,7 +33,7 @@ Advisor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:t
 
 Publications \[Related to my Thesis\]
 ------
-* Solving Neural Min-Max Games: The Role of Architecture, Initialization, and Dynamics - NeurIPS 2025 (Spotlight) \[[**paper**](https://openreview.net/forum?id=5xdbWUdM87)\] \[[**video (5 mins.)**](https://recorder-v3.slideslive.com/?share=106331&s=21baa99b-4be9-42db-9790-d95ed3d6e9a0)\] \[[**poster**](\files\NeurIPS_2025_Hidden_Games_Overparameterization_Poster.pdf)\] \[[**slides (5 mins)**](\files\solving_hidden_games_overaparameterization_neurips_2025_spotlight.pdf)\]
+* Solving Neural Min-Max Games: The Role of Architecture, Initialization, and Dynamics - NeurIPS 2025 (Spotlight) \[[**paper**](https://openreview.net/forum?id=5xdbWUdM87)\] \[[**video (5 mins.)**](https://recorder-v3.slideslive.com/?share=106331&s=21baa99b-4be9-42db-9790-d95ed3d6e9a0)\] \[[**poster**](\files\NeurIPS_2025_Hidden_Games_Overparameterization_Poster.pdf)\] \[[**slides (5 mins)**](\files\solving_hidden_games_overaparameterization_neurips_2025_spotlight.pdf)\] \[[**slides (long)**](\files\solving_hidden_games_overparameterization_july2025.pdf)\]
 
 Other Publications
 ------
