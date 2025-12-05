@@ -24,6 +24,7 @@ Contact me at `dbp[dot]patel[dot]1994[at]gmail[dot]com` or `dbpatel5[at]wisc[dot
 
 News
 ---
+* 12/2025 - Attending NeurIPS 2025 to present my [**paper**](https://arxiv.org/abs/2512.00389)! Excited to see you all there!
 * 09/2025 - Our paper titled _Solving Neural Min-Max Games: The Role of Architecture, Initialization & Dynamics_ has been accepted as a Spotlight paper at NeurIPS 2025! (My first paper as a PhD student here at UW-Madison!) arXiv version can be found [**here**](https://arxiv.org/abs/2512.00389)!
 * 2025 - [Upcoming] Preprint on _Optimal Dataset Design for Nurture-then-Nature Teaching_
 * 09/2025 - I was selected to attend the [EPFL Summer School 2025](https://mathsdata2025.github.io/). Amazing venue, great lectures, and a diverse crowd of theoretical machine learning researchers!
