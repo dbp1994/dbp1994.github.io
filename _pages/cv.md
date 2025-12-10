@@ -33,13 +33,19 @@ Advisor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:t
 
 Publications \[Related to my Thesis\]
 ------
+
 * Solving Neural Min-Max Games: The Role of Architecture, Initialization, and Dynamics - NeurIPS 2025 (Spotlight) \[[**paper**](https://openreview.net/forum?id=5xdbWUdM87)\] \[[**video (5 mins.)**](https://recorder-v3.slideslive.com/?share=106331&s=21baa99b-4be9-42db-9790-d95ed3d6e9a0)\] \[[**poster**](\files\NeurIPS_2025_Hidden_Games_Overparameterization_Poster.pdf)\] \[[**slides (5 mins)**](\files\solving_hidden_games_overaparameterization_neurips_2025_spotlight.pdf)\] \[[**slides (long)**](\files\solving_hidden_games_overparameterization_july2025.pdf)\]
 
-Other Publications
+Other Publications/Preprints
 ------
+
+### Algorithmic Machine Teaching
+
+* Optimal Dataset Design for Nurture-then-Nature Teaching (2025) - Under review \[[**preprint**](https://openreview.net/forum?id=ofHuqu7Sf3&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FConference%2FAuthors%23your-submissions))\]
+
 ### Robust Learning under Label Noise
 
-* Estimating Label Noise Rates with Class-specific Thresholds - Under preparation
+* Estimating Label Noise Rates with Class-specific Thresholds (2025) - To Be Uploaded
 * Adaptive Sample Selection for Robust Learning under Label Noise - WACV 2023 \[[**paper**](https://arxiv.org/abs/2106.15292)\] \[[**code**](https://github.com/dbp1994/bare-wacv-2023)\] \[[**video**](https://youtu.be/tLT5PlQYIA0)\] \[[**poster**](\files\bare-wacv-2023-poster.pdf)\]
 * Memorization in Deep Neural Networks: Does the Loss Function matter? - PAKDD 2021 \[[**paper**](https://arxiv.org/abs/2107.09957)\] \[[**video**](https://youtu.be/6hkEC1IEJdo)\] \[[**code**](https://github.com/dbp1994/memorization-pakdd-2021)\] \[[**presentation**](\files\pakdd-role-of-loss.pdf)\]
 
