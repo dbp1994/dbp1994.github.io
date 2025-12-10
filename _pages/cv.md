@@ -15,7 +15,7 @@ Research Interests
 ------
 I am interested in understanding machine learning problems through the lens of geometry, statistics, and optimization.
 
-Current research interests - learning theory, robustness issues in machine learning <br>
+Current research interests - trustworthy machine learning, multi-agent learning, learning theory <br>
 Other interests - machine teaching, algorithmic high-dimensional robust statistics, causal inference, geometric deep learning
 
 <!-- [Publications](https://dbp1994.github.io/publications/){:target="_blank"}
