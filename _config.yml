@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Deep Patel"
   avatar           : "deep-patel-dp-2.jpg"
-  bio              : "4<sup>th</sup> year Ph.D student at <br> School of Computer, Data & Information Sciences" # 3<sup>rd</sup>
+  bio              : "4<sup>th</sup> year Ph.D student at <br> Department of Computer Sciences" # 3<sup>rd</sup>
   location         : # "C-235, Learning Systems <br /> and Multimedia Lab"
   employer         : "University of Wisconsin-Madison, WI"
   googlescholar    : "https://scholar.google.com/citations?user=VDmcq5wAAAAJ&hl=en"
@@ -101,7 +101,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "deep-patel-7032b3a1"
-  orcid            : #"https://orcid.org/0000-0002-0048-3490"
+  orcid            : "https://orcid.org/0000-0001-6776-4708"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
